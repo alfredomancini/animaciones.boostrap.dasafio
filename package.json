@@ -1,0 +1,23 @@
+{
+  "name": "boostrap.animaciones.desafio.",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredomancini/animaciones.boostrap.dasafio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredomancini/animaciones.boostrap.dasafio/issues"
+  },
+  "homepage": "https://github.com/alfredomancini/animaciones.boostrap.dasafio#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
